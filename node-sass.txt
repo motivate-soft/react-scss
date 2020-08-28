@@ -1,0 +1,6 @@
+npm i -E node-sass@4.13.0
+npm install
+npm start
+
+
+OR update node to LTS version
