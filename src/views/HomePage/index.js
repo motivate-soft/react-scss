@@ -3,6 +3,10 @@ import FeatherIcon from "feather-icons-react";
 
 import Footer from "../Layout/Footer";
 import Header from "../Layout/Header";
+import "../../styles/home.scss"
+
+
+
 class HomePage extends Component {
   constructor(props) {
     super(props);
@@ -17,7 +21,7 @@ class HomePage extends Component {
     return (
       <div>
         <Header />
-        <div className="home">
+        <div className="home ">
           <section className="bg-half-170 d-table w-100" id="home">
             <div className="container">
               <div className="row align-items-center">

@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import FeatherIcon from "feather-icons-react";
+import "../../../styles/footer.scss"
+
 
 class Footer extends Component {
   constructor(props) {
