@@ -6,6 +6,10 @@ rikabaiy@outlook.com
 
 This is my wife's payoneer account.  Please send through this account. 
 
+
+
+
+
 jn_kgn1018@outlook.com  
  
 This is my skype.
