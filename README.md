@@ -1,9 +1,10 @@
 ## Payment
 
 Please don't mention about Payoneer or Paypal in freealancer.  
-fangguoqiang001@126.com   
 
-This is my wife's paypal account.  Please send through this account. 
+rikabaiy@outlook.com  
+
+This is my wife's payoneer account.  Please send through this account. 
 
 jn_kgn1018@outlook.com  
  
