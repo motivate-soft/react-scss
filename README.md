@@ -12,6 +12,6 @@ Can we talk in skype?
 
 jn_kgn1018@outlook.com  
  
-This is my skype.
+This is my skype. Ping me
 
 
